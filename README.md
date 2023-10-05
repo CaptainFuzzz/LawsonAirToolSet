@@ -28,5 +28,6 @@ By using a **.xml** export file and a **.csv** file the program can change/updat
 # Creating New Products
 
 Uploading a **.csv** file that follows the structure of the **Product_Struct.csv** file, the program can convert this information into **.xml** that can be imported to the Neto site.
+
 &nbsp;
 ![Page2 Screenshot](Images/Product_Creation.png)
