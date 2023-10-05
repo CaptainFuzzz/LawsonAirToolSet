@@ -8,14 +8,13 @@ The program work alongside the **.xml** exporting and importing templates within
 ###
 ## Installation
 Install modules using pip:
-'''
+```
 pip install customtkinter
 pip install 
 pip install lxml.etree
 pip install pandas
 pip install beautifulsoup4
-'''
-
+```
 # Updating and Changing Pre-existing products:
 
 By using an **.xml** export file and a **.csv** file the program can change/update different aspects of products. These changes are then exporting as a new **.xml** file for importing to either of the websites.
