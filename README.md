@@ -5,7 +5,16 @@ The program work alongside the **.xml** exporting and importing templates within
 
 ![Startup Screenshot](Images/Start.png)
 
-&nbsp;
+###
+## Installation
+Install modules using pip:
+'''
+pip install customtkinter
+pip install 
+pip install lxml.etree
+pip install pandas
+pip install beautifulsoup4
+'''
 
 # Updating and Changing Pre-existing products:
 
